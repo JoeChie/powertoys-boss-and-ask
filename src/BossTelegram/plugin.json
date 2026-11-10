@@ -1,0 +1,12 @@
+{
+  "ID": "3520A8176A365687B8E172FF479C3A08",
+  "ActionKeyword": "bossx",
+  "IsGlobal": false,
+  "Name": "Telegram boss key",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "BossTelegram.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

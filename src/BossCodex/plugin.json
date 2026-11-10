@@ -1,0 +1,12 @@
+{
+  "ID": "6DAF71D9147B5FEB984046EA5DC90FA7",
+  "ActionKeyword": "bosse",
+  "IsGlobal": false,
+  "Name": "Codex boss key",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "BossCodex.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

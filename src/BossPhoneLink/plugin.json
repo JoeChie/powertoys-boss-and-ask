@@ -1,0 +1,12 @@
+{
+  "ID": "D58BEBEA452658A6848C10DD4515D850",
+  "ActionKeyword": "bossc",
+  "IsGlobal": false,
+  "Name": "Phone Link boss key",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "BossPhoneLink.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

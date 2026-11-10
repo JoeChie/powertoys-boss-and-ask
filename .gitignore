@@ -1,0 +1,14 @@
+/out/
+/release/
+/staging/
+/release-ready/
+/staging-ready/
+*.log
+status.txt
+last-action.txt
+action-history.txt
+draft-backups/
+*.bak
+.vs/
+bin/
+obj/

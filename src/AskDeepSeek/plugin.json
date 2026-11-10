@@ -1,0 +1,12 @@
+{
+  "ID": "A33F7CB55DFE5776829004F953003F4A",
+  "ActionKeyword": "ds",
+  "IsGlobal": true,
+  "Name": "Ask DeepSeek Harness",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "AskDeepSeek.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

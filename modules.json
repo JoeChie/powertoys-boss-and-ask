@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "BossCodex",
+    "name": "Codex boss key",
+    "nameZh": "Codex 老板键",
+    "key": "E",
+    "process": "ChatGPT",
+    "keyword": "bosse",
+    "source": null,
+    "appId": "OpenAI.Codex_2p2nqsd0c76g0!App"
+  },
+  {
+    "slug": "BossDeepSeek",
+    "name": "DeepSeek Harness boss key",
+    "nameZh": "DeepSeek Harness 老板键",
+    "key": "F",
+    "process": "DeepSeek Harness",
+    "keyword": "bossf",
+    "source": null,
+    "appId": ""
+  },
+  {
+    "slug": "BossTelegram",
+    "name": "Telegram boss key",
+    "nameZh": "Telegram 老板键",
+    "key": "X",
+    "process": "Telegram",
+    "keyword": "bossx",
+    "source": null,
+    "appId": ""
+  },
+  {
+    "slug": "BossPhoneLink",
+    "name": "Phone Link boss key",
+    "nameZh": "手机连接老板键",
+    "key": "C",
+    "process": "PhoneExperienceHost",
+    "keyword": "bossc",
+    "source": null,
+    "appId": "Microsoft.YourPhone_8wekyb3d8bbwe!App"
+  },
+  {
+    "slug": "AskCodex",
+    "name": "Ask Codex",
+    "nameZh": "问问 Codex",
+    "key": null,
+    "process": "ChatGPT",
+    "keyword": "gpt",
+    "source": "DesktopChatRun/DesktopChat.cs",
+    "appId": "OpenAI.Codex_2p2nqsd0c76g0!App"
+  },
+  {
+    "slug": "AskWorkBuddy",
+    "name": "Ask WorkBuddy",
+    "nameZh": "问问 WorkBuddy",
+    "key": null,
+    "process": "WorkBuddy",
+    "keyword": "wb",
+    "source": "WorkBuddyRun/WorkBuddyRun.cs",
+    "appId": ""
+  },
+  {
+    "slug": "AskDeepSeek",
+    "name": "Ask DeepSeek Harness",
+    "nameZh": "问问 DeepSeek Harness",
+    "key": null,
+    "process": "DeepSeek Harness",
+    "keyword": "ds",
+    "source": "DeepSeekRun/DeepSeekRun.cs",
+    "appId": ""
+  }
+]

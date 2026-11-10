@@ -1,0 +1,12 @@
+{
+  "ID": "0DF931DD43F65D8588A285CA6E3B5195",
+  "ActionKeyword": "bossf",
+  "IsGlobal": false,
+  "Name": "DeepSeek Harness boss key",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "BossDeepSeek.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

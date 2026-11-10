@@ -1,0 +1,12 @@
+{
+  "ID": "31B07D1B56BC5E3B8CF299AE0BDD8AD0",
+  "ActionKeyword": "wb",
+  "IsGlobal": true,
+  "Name": "Ask WorkBuddy",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "AskWorkBuddy.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

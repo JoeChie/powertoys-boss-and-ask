@@ -1,0 +1,12 @@
+{
+  "ID": "CC37CBCF580C5E01AE100E1F896166E1",
+  "ActionKeyword": "gpt",
+  "IsGlobal": true,
+  "Name": "Ask Codex",
+  "Author": "JoeChie",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "ExecuteFileName": "AskCodex.dll",
+  "IcoPathLight": "icon.png",
+  "IcoPathDark": "icon.png"
+}

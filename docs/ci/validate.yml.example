@@ -1,0 +1,15 @@
+name: Validate source
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  contracts:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Config and query contracts, PowerShell syntax
+        shell: pwsh
+        run: ./scripts/Test.ps1
+      - name: Manifest and portable-source checks
+        shell: pwsh
+        run: python ./tests/validate_release.py
